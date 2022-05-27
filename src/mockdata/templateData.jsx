@@ -4,7 +4,7 @@ const templateData = [
     
     assignmentTitle: "Kathrine",
   
-    jobDescription: "Developer",
+    jobDescription: "Web Designer",
 
     email: "Ajay@email.com",
 
