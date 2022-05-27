@@ -2,11 +2,11 @@ const templateData = [
   {
     id: 1,
     
-    assignmentTitle: "Kathrine",
+    assignmentTitle: "Katherine",
   
     jobDescription: "Web Designer",
 
-    email: "Ajay@email.com",
+    email: "Kathrine@email.com",
 
     photo:"https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80"
   },
