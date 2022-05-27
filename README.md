@@ -1,13 +1,10 @@
-## Running React on Repl.it
+👋 Hi, I’m @Vishal3474
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+👀 I’m interested in coding and designing ...
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+🌱 I’m currently learning html css javascript react nodejs typescript Redux...
 
-Using the two in conjunction is one of the fastest ways to build a web app.
+💞️ I’m looking to collaborate on my projects...
 
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
+📫 How to reach me Vishalkumar3474@gmail.com...
 
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the `.replit` file.
