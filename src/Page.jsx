@@ -4,8 +4,8 @@ import React from "react";
 function Page(props) {
   return (
     
-      <div className="p-4 m-5 bg-white border-2 border-gray-200 rounded-md shadow-md ">
-        <div className="space-x-2 font-semibold text-md">
+      <div className="p-4 m-5 bg-gray-300 border-2 border-gray-200 rounded-md shadow-md ">
+        <div className="space-x-2 font-semibold text-md ">
           <span>{props.assignmentTitle}</span>
           
         </div>
