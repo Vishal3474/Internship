@@ -34,20 +34,13 @@ function SideBarPage() {
 
         <div className="ml-96 flex text-center space-x-8">
           <Link
-            to="/All"
-            className="text-white font-medium text-lg flex items-center hover:bg-blue-700 hover:rounded-md hover:py-1 "
-          >
-            All
-          </Link>
-
-          <Link
             to="/With-photo"
             className="text-white font-medium text-lg flex items-center hover:bg-blue-700 hover:rounded-md hover:py-1 "
           >
             {" "}
             <IoMdWallet />
             <span className="mr-2"></span>
-            With Photo
+            All
           </Link>
           <Link
             to="/Without-Photo"

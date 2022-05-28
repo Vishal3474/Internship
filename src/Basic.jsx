@@ -1,5 +1,5 @@
 import React from "react";
-import BasicData from "./mockdata/BasicData";
+import templateData from "./mockdata/templateData";
 import BasicPage from "./BasicPage";
 
 function Basic() {
@@ -9,9 +9,11 @@ function Basic() {
         Basic Category
       </h1>
       <div>
-        {BasicData.filter((u) => u.id < 4).map((l) => (
-          <BasicPage e={1} />
-        ))}
+        {templateData
+          .filter((u) => u.category === "Basic")
+          .map((l) => (
+            <BasicPage e={l} />
+          ))}
       </div>
     </div>
   );

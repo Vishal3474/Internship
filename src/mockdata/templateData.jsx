@@ -3,7 +3,7 @@ const templateData = [
     id: 1,
     assignmentTitle: "Kathrine",
 
-    jobDescription: "WEB Designing",
+    jobDescription: "WEB Designer",
 
     category: "Basic",
 
