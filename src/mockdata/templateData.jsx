@@ -1,12 +1,21 @@
 const templateData = [
   {
     id: 1,
+<<<<<<< HEAD
 
     assignmentTitle: "Kathrine",
 
     jobDescription: "Web Designer",
 
     category: "Basic",
+=======
+    
+    assignmentTitle: "Katherine",
+  
+    jobDescription: "Web Designer",
+
+    email: "Kathrine@email.com",
+>>>>>>> 8cdf8091c7cb36cc3c56b83aa8aaa0f1c89edeb3
 
     email: "Kathrine@email.com",
 
