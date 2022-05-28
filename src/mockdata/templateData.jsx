@@ -81,7 +81,7 @@ const templateData = [
     email: "Satendra@email.com",
 
     photo:
-      "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "https://media.istockphoto.com/photos/portrait-of-a-latin-boy-at-home-picture-id1328419622?k=20&m=1328419622&s=170667a&w=0&h=wEDXDOvOuyG3i_HWLsKs0W8wZ-e722Acghh3ZkT7Lr8=",
   },
 
   {
@@ -96,7 +96,7 @@ const templateData = [
     email: "Narendra@email.com",
 
     photo:
-      "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "https://static.toiimg.com/thumb/msid-77629547,width-1200,height-900,resizemode-4/.jpg",
   },
 
   {
@@ -111,7 +111,7 @@ const templateData = [
     email: "Vishal@email.com",
 
     photo:
-      "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "https://cdn.discordapp.com/attachments/944189291427430421/946420617199124500/vkjpg.jpg",
   },
 
   {
@@ -126,7 +126,7 @@ const templateData = [
     email: "Shivraj@email.com",
 
     photo:
-      "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "https://asamnews.com/wp-content/uploads/2019/01/Vavilapalli-Sai-Hitesh.jpg",
   },
 
   {
@@ -141,7 +141,7 @@ const templateData = [
     email: "Pawan@email.com",
 
     photo:
-      "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "https://media.istockphoto.com/photos/portrait-of-a-boy-at-home-picture-id1307412103?k=20&m=1307412103&s=612x612&w=0&h=2HnP9LS-HZAPWz5dY12WSeYX0lVbTV6tumrgBpfFYPg=",
   },
 ];
 
