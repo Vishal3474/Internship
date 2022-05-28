@@ -5,10 +5,10 @@ import Page from "./Page";
 function WithoutPhoto() {
   return (
     <div>
-      <h1 className="mb-4 text-2xl font-semibold text-blue-500">
+      <h1 className="mb-4 text-2xl font-semibold text-blue-500 ">
         Without Photo
       </h1>
-      <div className="flex-col p-10 pt-2 bg-gray-100 ">
+      <div className="flex-col p-10 pt-2  ">
         {templateData.map((e) => {
           return (
             <Page
