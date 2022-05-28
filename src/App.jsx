@@ -1,6 +1,6 @@
 import React from "react";
 import WithPhoto from "./WithPhoto";
-import { Routes, Route } from "react-router-dom";
+import { Routes, Route, Navigate } from "react-router-dom";
 import MainLayout from "./MainLayout";
 import WithoutPhoto from "./WithoutPhoto";
 import Basic from "./Basic";
@@ -10,6 +10,7 @@ import Professional from "./Professional";
 function App() {
   return (
     <Routes>
+      <Route path="/" element={<Navigate to="/With-Photo" />} />
       <Route path="/" element={<MainLayout />}>
         <Route path="With-Photo" element={<WithPhoto />} />
         <Route path="Without-Photo" element={<WithoutPhoto />} />
